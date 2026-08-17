@@ -1,3 +1,5 @@
+# pip3 install pandas, requests, openpyxl
+
 import time
 import io
 import pandas as pd
