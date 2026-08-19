@@ -1,6 +1,6 @@
 # Surface Localisation Project (Wiita Lab)
 
-## Revising old IsExtracellular code
+## revising old IsExtracellular code
 purpose: testing IsExtracellular script from Rucha's old repo: https://github.com/Rucha1796/IsExtracellular/blob/main/README.md to see if still working/has correct output
 <br> still specifically for PTMs but made the following edits/debugs so is locally compatible:
 #### updates:
@@ -13,3 +13,9 @@ purpose: testing IsExtracellular script from Rucha's old repo: https://github.co
 #### bug fixes:
 - added paranthesis around df_peptide['Assigned Modifications'].str.strip() != '' as it was being ignored from the &
 - added .strip() into find_position_in_protein preventatively
+
+## feature extraction
+1. is extracellular? (in IsExtracellular)
+2. Wollscheid surfaceome membership (in IsExtracellular)
+3. KW-1003 cell membrane
+4. GO terms: 
