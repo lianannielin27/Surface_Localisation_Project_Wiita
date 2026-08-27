@@ -17,5 +17,5 @@ purpose: testing IsExtracellular script from Rucha's old repo: https://github.co
 ## feature extraction
 1. is extracellular? (in IsExtracellular)
 2. Wollscheid surfaceome membership (in IsExtracellular)
-3. KW-1003 cell membrane
+3. KW-1003 cell membrane (in nat_comm_surface_database_1)
 4. GO terms: 
