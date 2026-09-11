@@ -19,3 +19,6 @@ purpose: testing IsExtracellular script from Rucha's old repo: https://github.co
 2. Wollscheid surfaceome membership (in IsExtracellular)
 3. KW-1003 cell membrane (in nat_comm_surface_database_1)
 4. GO terms: 
+5. UniProt features used in SURFY: Domain Cadherin, Domain EGF-like, Domain Fibronectin type-III, Domain GPS,
+Domain Ig-like C2-type, Domain Ig-like V-type, Domain Protein kinase, Metal binding Iron, Metal
+binding Manganese, Motif PDZ-binding, Nucleotide binding, Zinc finger
